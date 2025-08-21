@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 "hello world"
+=======
+# "hello world"
+# a = 1+1 
+# print(a)
+"hello git"
+>>>>>>> ef93df1247bf5e384fc733ad4c921ff355e5d1a3
